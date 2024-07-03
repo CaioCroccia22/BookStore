@@ -1,0 +1,38 @@
+*{
+    margin: auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border-bottom: solid #E6BC73 1px;
+    border-radius:  0 0 20px 20px ;
+    font-family: 'Roboto', cursive;
+    background-color: #E6AB73;
+    color: #fff;
+}
+.logo{
+    font-size: 30px;
+}
+header nav ul{
+    display: flex;
+    text-decoration: none;
+    justify-content: space-between;
+    
+}
+
+header nav ul li{
+    padding: 10px;
+    list-style-type: none;
+}
+
+header nav ul li a{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 25px;
+    color: #fff;
+    
+}
