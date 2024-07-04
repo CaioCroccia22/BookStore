@@ -136,7 +136,7 @@ input{
 
 label{
     font-size: 20px;
-    color: #fff;
+    color: #533F10;
 }
 
 .form-content button{
@@ -148,4 +148,11 @@ label{
     font-size: 16px;
     border-radius: 20px;
     margin-top: 20px;
+}
+
+footer{
+    background-color: #533F10;
+    text-align: center;
+    color: #fff;
+    padding: 20px;
 }
